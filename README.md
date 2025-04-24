@@ -4,7 +4,7 @@ HOLA SOY GABRIELA <br>TRABAJO DE DOCENTE ACTUALMENTE<br>TECNICA RADIOLOGA EN BUS
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ana-gabriela-galvan-63a3ab333?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app  ) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ana-gabriela-galvan-63a3ab333?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app  ) https://www.linkedin.com/in/ana-gabriela-galvan-63a3ab333?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ANAGABRIELA525&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ANAGABRIELA525&theme=dark&hide_border=false)<br/>
